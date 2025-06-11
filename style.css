@@ -1,0 +1,276 @@
+
+  body {
+    font-family: 'Lato', sans-serif;
+    color: #000000;
+  }
+
+.foodshop-logo{
+    height: 50px;
+
+}
+
+  span {
+    color: #fc9d04;
+  }
+
+  h1, h2, h3, h4 ,h5 ,h6 {
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 1px;
+  }
+
+  h1{
+    font-size: 80px;
+  }
+
+  h2{
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.571),rgba(0, 0, 0, 0.679)),url(/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh; 
+  }
+
+  .banner-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .ordernow-btn:hover{
+    background-color: #fc9d04;
+    color: white;
+    text-decoration: none;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  .special-meal{
+    transition: transform 0.3s;
+  }
+
+  .special-meal:hover {
+    transform: translatey(-8px);
+    box-shadow: 0 2px 12px #fc9d04;
+  }
+
+  .about-meal{
+    font-size: 30px;
+  }
+
+  .oats-img{
+    height: 45px;
+  }
+
+.service-text{
+    font-size: 23px;
+}
+
+.happy-client{
+  transition: transform 0.3s;
+}
+
+.happy-client:hover {
+  transform: translatey(-8px);
+  box-shadow: 0 2px 12px #fc9d04;
+}
+
+.aboutus-page{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.473),rgba(0, 0, 0, 0.664)),url(/b4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh
+}
+
+.aboutus-banner-text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.happy-clients{
+    transition: transform 1s;
+}
+.happy-clients:hover{
+    transform:scale(1.1);
+}
+
+.recent-blog{
+  transition: transform 1s; 
+}
+
+.recent-blog:hover{
+  transform:scale(1.1);
+}
+
+.footer{
+    color: white;
+    font-size: 18px;
+}
+
+
+.aboutus-page{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.503),rgba(0, 0, 0, 0.607)),url(/menu.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh;
+}
+
+.aboutus-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.contact-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/contact.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh; 
+}
+
+.contact-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold;
+}
+ 
+textarea{
+  height: 200px;
+}
+
+.services-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/service.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh;  
+}
+
+.services-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.blog-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/foodblog.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh; 
+}
+
+.blog-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold;  
+}
+
+.breakfast-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh; 
+}
+
+.breakfast-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold;  
+}
+
+.lunch-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b7.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh; 
+}
+
+.lunch-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold;  
+}
+
+.dinner-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b7.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 90vh; 
+}
+
+.dinner-banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 90vh;
+  color:white;
+  font-size: 100px;
+  font-weight: bold;  
+}
