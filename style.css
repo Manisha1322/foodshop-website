@@ -86,7 +86,7 @@
 }
 
 .aboutus-page{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.473),rgba(0, 0, 0, 0.664)),url(/b4.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.473),rgba(0, 0, 0, 0.664)),url(b4.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -125,7 +125,7 @@
 
 
 .aboutus-page{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.503),rgba(0, 0, 0, 0.607)),url(/menu.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.503),rgba(0, 0, 0, 0.607)),url(menu.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -146,7 +146,7 @@
 }
 
 .contact-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/contact.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(contact.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -171,7 +171,7 @@ textarea{
 }
 
 .services-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/service.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(service.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -192,7 +192,7 @@ textarea{
 }
 
 .blog-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/foodblog.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(foodblog.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -213,7 +213,7 @@ textarea{
 }
 
 .breakfast-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b4.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(b4.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -234,7 +234,7 @@ textarea{
 }
 
 .lunch-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b7.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(b7.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -255,7 +255,7 @@ textarea{
 }
 
 .dinner-banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(/b7.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.607)),url(b7.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
